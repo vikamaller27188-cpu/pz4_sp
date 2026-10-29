@@ -1,0 +1,536 @@
+[
+  {
+    "timestamp": "2026-10-29T16:26:04.438949",
+    "make_query": "honda",
+    "makes_count": 12417,
+    "models": [
+      {
+        "make": "Honda",
+        "model": "Accord"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic"
+      },
+      {
+        "make": "Honda",
+        "model": "Pilot"
+      },
+      {
+        "make": "Honda",
+        "model": "CR-V"
+      },
+      {
+        "make": "Honda",
+        "model": "Ridgeline"
+      },
+      {
+        "make": "Honda",
+        "model": "Element"
+      },
+      {
+        "make": "Honda",
+        "model": "Odyssey"
+      },
+      {
+        "make": "Honda",
+        "model": "Insight"
+      },
+      {
+        "make": "Honda",
+        "model": "FCX Clarity"
+      },
+      {
+        "make": "Honda",
+        "model": "Fit"
+      },
+      {
+        "make": "Honda",
+        "model": "CR-Z"
+      },
+      {
+        "make": "Honda",
+        "model": "S2000"
+      },
+      {
+        "make": "Honda",
+        "model": "PCX150"
+      },
+      {
+        "make": "Honda",
+        "model": "CB1100"
+      },
+      {
+        "make": "Honda",
+        "model": "CTX1300"
+      },
+      {
+        "make": "Honda",
+        "model": "CTX700"
+      },
+      {
+        "make": "Honda",
+        "model": "Gold Wing"
+      },
+      {
+        "make": "Honda",
+        "model": "NC700X"
+      },
+      {
+        "make": "Honda",
+        "model": "Metropolitan"
+      },
+      {
+        "make": "Honda",
+        "model": "NPS50 (Ruckus)"
+      }
+    ],
+    "models_count": 362,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-10-29T16:26:08.420521",
+    "make_query": "toyota",
+    "makes_count": 12417,
+    "models": [
+      {
+        "make": "Toyota",
+        "model": "Scion xA"
+      },
+      {
+        "make": "Toyota",
+        "model": "Scion tC"
+      },
+      {
+        "make": "Toyota",
+        "model": "Corolla"
+      },
+      {
+        "make": "Toyota",
+        "model": "Prius"
+      },
+      {
+        "make": "Toyota",
+        "model": "Scion xB"
+      },
+      {
+        "make": "Toyota",
+        "model": "Land Cruiser"
+      },
+      {
+        "make": "Toyota",
+        "model": "Highlander"
+      },
+      {
+        "make": "Toyota",
+        "model": "4Runner"
+      },
+      {
+        "make": "Toyota",
+        "model": "RAV4"
+      },
+      {
+        "make": "Toyota",
+        "model": "Tacoma"
+      },
+      {
+        "make": "Toyota",
+        "model": "Scion FR-S"
+      },
+      {
+        "make": "Toyota",
+        "model": "FJ Cruiser"
+      },
+      {
+        "make": "Toyota",
+        "model": "Yaris"
+      },
+      {
+        "make": "Toyota",
+        "model": "Avalon"
+      },
+      {
+        "make": "Toyota",
+        "model": "Corolla Matrix"
+      },
+      {
+        "make": "Toyota",
+        "model": "Tundra"
+      },
+      {
+        "make": "Toyota",
+        "model": "Sienna"
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry"
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry Solara"
+      },
+      {
+        "make": "Toyota",
+        "model": "Sequoia"
+      }
+    ],
+    "models_count": 58,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-10-29T16:26:06.941542",
+    "make_query": "ford",
+    "makes_count": 12417,
+    "models": [
+      {
+        "make": "Ford",
+        "model": "Crown Victoria"
+      },
+      {
+        "make": "Ford",
+        "model": "Focus"
+      },
+      {
+        "make": "Ford",
+        "model": "Fusion"
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang"
+      },
+      {
+        "make": "Ford",
+        "model": "Taurus"
+      },
+      {
+        "make": "Ford",
+        "model": "E-150"
+      },
+      {
+        "make": "Ford",
+        "model": "Edge"
+      },
+      {
+        "make": "Ford",
+        "model": "Escape"
+      },
+      {
+        "make": "Ford",
+        "model": "Expedition"
+      },
+      {
+        "make": "Ford",
+        "model": "Explorer"
+      },
+      {
+        "make": "Ford",
+        "model": "F-150"
+      },
+      {
+        "make": "Ford",
+        "model": "Flex"
+      },
+      {
+        "make": "Ford",
+        "model": "Ranger"
+      },
+      {
+        "make": "Ford",
+        "model": "Explorer Sport Trac"
+      },
+      {
+        "make": "Ford",
+        "model": "F-250"
+      },
+      {
+        "make": "Ford",
+        "model": "F-350"
+      },
+      {
+        "make": "Ford",
+        "model": "F-450"
+      },
+      {
+        "make": "Ford",
+        "model": "F-550"
+      },
+      {
+        "make": "Ford",
+        "model": "F-650"
+      },
+      {
+        "make": "Ford",
+        "model": "F-750"
+      }
+    ],
+    "models_count": 168,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-10-29T16:26:16.148013",
+    "make_query": "honda",
+    "makes_count": 12417,
+    "models": [
+      {
+        "make": "Honda",
+        "model": "Accord"
+      },
+      {
+        "make": "Honda",
+        "model": "Civic"
+      },
+      {
+        "make": "Honda",
+        "model": "Pilot"
+      },
+      {
+        "make": "Honda",
+        "model": "CR-V"
+      },
+      {
+        "make": "Honda",
+        "model": "Ridgeline"
+      },
+      {
+        "make": "Honda",
+        "model": "Element"
+      },
+      {
+        "make": "Honda",
+        "model": "Odyssey"
+      },
+      {
+        "make": "Honda",
+        "model": "Insight"
+      },
+      {
+        "make": "Honda",
+        "model": "FCX Clarity"
+      },
+      {
+        "make": "Honda",
+        "model": "Fit"
+      },
+      {
+        "make": "Honda",
+        "model": "CR-Z"
+      },
+      {
+        "make": "Honda",
+        "model": "S2000"
+      },
+      {
+        "make": "Honda",
+        "model": "PCX150"
+      },
+      {
+        "make": "Honda",
+        "model": "CB1100"
+      },
+      {
+        "make": "Honda",
+        "model": "CTX1300"
+      },
+      {
+        "make": "Honda",
+        "model": "CTX700"
+      },
+      {
+        "make": "Honda",
+        "model": "Gold Wing"
+      },
+      {
+        "make": "Honda",
+        "model": "NC700X"
+      },
+      {
+        "make": "Honda",
+        "model": "Metropolitan"
+      },
+      {
+        "make": "Honda",
+        "model": "NPS50 (Ruckus)"
+      }
+    ],
+    "models_count": 362,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-10-29T16:26:10.532780",
+    "make_query": "toyota",
+    "makes_count": 12417,
+    "models": [
+      {
+        "make": "Toyota",
+        "model": "Scion xA"
+      },
+      {
+        "make": "Toyota",
+        "model": "Scion tC"
+      },
+      {
+        "make": "Toyota",
+        "model": "Corolla"
+      },
+      {
+        "make": "Toyota",
+        "model": "Prius"
+      },
+      {
+        "make": "Toyota",
+        "model": "Scion xB"
+      },
+      {
+        "make": "Toyota",
+        "model": "Land Cruiser"
+      },
+      {
+        "make": "Toyota",
+        "model": "Highlander"
+      },
+      {
+        "make": "Toyota",
+        "model": "4Runner"
+      },
+      {
+        "make": "Toyota",
+        "model": "RAV4"
+      },
+      {
+        "make": "Toyota",
+        "model": "Tacoma"
+      },
+      {
+        "make": "Toyota",
+        "model": "Scion FR-S"
+      },
+      {
+        "make": "Toyota",
+        "model": "FJ Cruiser"
+      },
+      {
+        "make": "Toyota",
+        "model": "Yaris"
+      },
+      {
+        "make": "Toyota",
+        "model": "Avalon"
+      },
+      {
+        "make": "Toyota",
+        "model": "Corolla Matrix"
+      },
+      {
+        "make": "Toyota",
+        "model": "Tundra"
+      },
+      {
+        "make": "Toyota",
+        "model": "Sienna"
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry"
+      },
+      {
+        "make": "Toyota",
+        "model": "Camry Solara"
+      },
+      {
+        "make": "Toyota",
+        "model": "Sequoia"
+      }
+    ],
+    "models_count": 58,
+    "errors": []
+  },
+  {
+    "timestamp": "2026-10-29T16:26:17.049007",
+    "make_query": "ford",
+    "makes_count": 12417,
+    "models": [
+      {
+        "make": "Ford",
+        "model": "Crown Victoria"
+      },
+      {
+        "make": "Ford",
+        "model": "Focus"
+      },
+      {
+        "make": "Ford",
+        "model": "Fusion"
+      },
+      {
+        "make": "Ford",
+        "model": "Mustang"
+      },
+      {
+        "make": "Ford",
+        "model": "Taurus"
+      },
+      {
+        "make": "Ford",
+        "model": "E-150"
+      },
+      {
+        "make": "Ford",
+        "model": "Edge"
+      },
+      {
+        "make": "Ford",
+        "model": "Escape"
+      },
+      {
+        "make": "Ford",
+        "model": "Expedition"
+      },
+      {
+        "make": "Ford",
+        "model": "Explorer"
+      },
+      {
+        "make": "Ford",
+        "model": "F-150"
+      },
+      {
+        "make": "Ford",
+        "model": "Flex"
+      },
+      {
+        "make": "Ford",
+        "model": "Ranger"
+      },
+      {
+        "make": "Ford",
+        "model": "Explorer Sport Trac"
+      },
+      {
+        "make": "Ford",
+        "model": "F-250"
+      },
+      {
+        "make": "Ford",
+        "model": "F-350"
+      },
+      {
+        "make": "Ford",
+        "model": "F-450"
+      },
+      {
+        "make": "Ford",
+        "model": "F-550"
+      },
+      {
+        "make": "Ford",
+        "model": "F-650"
+      },
+      {
+        "make": "Ford",
+        "model": "F-750"
+      }
+    ],
+    "models_count": 168,
+    "errors": []
+  }
+]
